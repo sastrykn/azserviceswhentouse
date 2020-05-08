@@ -9,3 +9,5 @@ In this deck, I provided guidance on when to use what products/services/technolo
 The deck is available at my GitHub repository under MIT license. Feel free to reuse, distribute and add updates to the content. 
 
 I have plans to update on a quarterly basis. However, would require the help of the community to keep this updated, if you find this useful enough :-)
+
+Connect me at my LinkedIn profile at: https://www.linkedin.com/in/sastrykn/ and share your feedback. 
